@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+I´m new at developing. Until now, this are my favourite languages and features to study:
+- Javascript
+- HTML / CSS
+- React
+- Node.js
+- Typescript
